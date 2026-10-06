@@ -1,0 +1,77 @@
+{
+  "podcasts": [
+    {
+      "id": "npr-news-now",
+      "feedUrl": "https://feeds.npr.org/500005/podcast.xml",
+      "subject": "News"
+    },
+    {
+      "id": "in-our-time",
+      "feedUrl": "https://podcasts.files.bbci.co.uk/b006qykl.rss",
+      "subject": "History"
+    },
+    {
+      "id": "bishop-doyle-s-weekly-sermon",
+      "feedUrl": "https://adoyle.libsyn.com/rss",
+      "subject": "Sermons",
+      "name": "Bishop Doyle's Weekly Sermon"
+    },
+    {
+      "id": "forward-day-by-day",
+      "feedUrl": "https://feeds.megaphone.fm/GS3552756212",
+      "subject": "Inspiration"
+    },
+    {
+      "id": "a-morning-at-the-office-an-episcopal-morning-praye",
+      "feedUrl": "https://feeds.megaphone.fm/FDMV8366345804",
+      "subject": "Inspiration"
+    },
+    {
+      "id": "daily-prayer-common-worship-morning-and-evening-pr",
+      "feedUrl": "https://feeds.captivate.fm/cofe-daily-prayer/",
+      "subject": "Inspiration"
+    },
+    {
+      "id": "the-compline-service-from-st-marks",
+      "feedUrl": "https://complinepodcast.org/?feed=podcast",
+      "subject": "Music",
+      "name": "The Compline Service from St Marks"
+    },
+    {
+      "id": "aging-in-full-bloom",
+      "feedUrl": "https://feeds.captivate.fm/aging-in-full-bloom/",
+      "subject": "Maturity"
+    },
+    {
+      "id": "the-not-old-better-show",
+      "feedUrl": "https://feeds.libsyn.com/76739/rss",
+      "subject": "Maturity"
+    },
+    {
+      "id": "everything-happens-with-kate-bowler",
+      "feedUrl": "https://feeds.megaphone.fm/LEME6986128900",
+      "subject": "Maturity"
+    },
+    {
+      "id": "on-being-with-krista-tippett",
+      "feedUrl": "https://feeds.simplecast.com/AuAxH_Bf",
+      "subject": "Spirituality"
+    },
+    {
+      "id": "turning-to-the-mystics-with-james-finley",
+      "feedUrl": "https://feeds.megaphone.fm/CFAC7039433581",
+      "subject": "Spirituality"
+    },
+    {
+      "id": "sermons-from-society-of-st-john-the-evangelist",
+      "feedUrl": "https://www.ssje.org/feed/podcast/",
+      "subject": "Sermons",
+      "name": "Sermons from Society of St. John the Evangelist"
+    },
+    {
+      "id": "the-cradle-of-prayer",
+      "feedUrl": "https://cradleofprayer.org/feed/podcast/",
+      "subject": "Inspiration"
+    }
+  ]
+}
